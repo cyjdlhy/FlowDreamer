@@ -1,0 +1,19 @@
+*.pyc
+# .vscode
+output
+build
+output/
+point_e_model_cache/
+output_num_13/
+output*/
+config*/
+xdl_*
+multi_*
+CLIP*
+scripts*
+run_*
+rebuttal_*/
+point-e/
+mesh_edit/
+generative_*
+source/*

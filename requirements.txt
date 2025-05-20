@@ -1,0 +1,25 @@
+tqdm
+mediapipe
+Pillow
+diffusers==0.29.2
+transformers==4.42.2
+fire==0.5.0
+huggingface_hub==0.23.4
+imageio==2.31.1
+imageio-ffmpeg
+PyYAML
+safetensors
+wandb
+accelerate
+triton
+gradio
+plyfile==0.8.1
+xformers==0.0.24   
+sentencepiece==0.2.0
+apex==0.9.10.dev0
+# /mnt/workspace/lhy/projects/ICLR2025/dreamflow/submodules/diff-gaussian-rasterization/dist/diff_gaussian_rasterization-0.0.0-cp310-cp310-linux_x86_64.whl
+# /mnt/workspace/lhy/projects/ICLR2025/dreamflow/submodules/simple-knn/dist/simple_knn-0.0.0-cp310-cp310-linux_x86_64.whl
+submodules/diff-gaussian-rasterization/
+submodules/simple-knn/
+/mnt/workspace/lhy/projects/ICLR2025/dreamflow/point-e
+/mnt/workspace/lhy/projects/ICLR2025/dreamflow/CLIP
