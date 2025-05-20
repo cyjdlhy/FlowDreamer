@@ -61,3 +61,10 @@ This project is built upon the work of several excellent research projects and o
 
 If you find this project useful in your research, please consider citing our paper:
 
+```bibtex
+@article{li2024flowdreamer,
+  title={Flowdreamer: Exploring high fidelity text-to-3d generation via rectified flow},
+  author={Li, Hangyu and Chu, Xiangxiang and Shi, Dingyuan and Lin, Wang},
+  journal={arXiv preprint arXiv:2408.05008},
+  year={2024}
+}
