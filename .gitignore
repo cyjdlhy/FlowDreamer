@@ -6,7 +6,7 @@ output/
 point_e_model_cache/
 output_num_13/
 output*/
-config*/
+# config*/
 xdl_*
 multi_*
 CLIP*
